@@ -1,3 +1,3 @@
 # IACService
-Android Inter App Communication Example
+Android Inter App Communication Service Example
 
